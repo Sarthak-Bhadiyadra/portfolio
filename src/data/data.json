@@ -1,0 +1,83 @@
+{
+  "personalInfo": {
+    "name": "Sarthak Bhadiyadra",
+    "title": "Software Engineer",
+    "description": "Experienced software engineer with approximately 2 years of experience and a proven track record managing 6+ projects. Skilled in front-end technologies such as HTML, CSS, and JavaScript, with expertise in backend development using Node.js and Express.js.",
+    "email": "bhadiyadrasarthak2002@gmail.com",
+    "location": "Ahmedabad, Gujarat",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/yourprofile",
+      "github": "https://github.com/yourprofile",
+      "twitter": ""
+    }
+  },
+  "skills": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "ReactJS",
+      "NextJS"
+    ],
+    "backend": ["NodeJS", "ExpressJS", "PHP", "Serverless"],
+    "database": ["MySQL", "PostgreSQL", "MongoDB"],
+    "crm": ["HubSpot", "Salesforce"],
+    "cloud": [
+      "AWS Lambda",
+      "SQS",
+      "API Gateway",
+      "EC2",
+      "Serverless Architecture"
+    ],
+    "tools": ["Supabase", "Git"]
+  },
+  "experience": [
+    {
+      "title": "Jr. Software Engineer",
+      "company": "Esparkbiz Pvt. Ltd.",
+      "duration": "July 2023 - Present",
+      "description": "Developed 'Dyshez' meal delivery app using NextJS and Supabase. Collaborated on 'Izzy' project focusing on CRM scripts and HubSpot CRM data migration. Gained expertise in HubSpot CRM, AWS Lambda, SQS, API Gateway, and Serverless Framework."
+    },
+    {
+      "title": "Jr. Software Engineer",
+      "company": "Intuz Solutions Pvt. Ltd.",
+      "duration": "July 2022 - June 2023",
+      "description": "Developed backend APIs for Water Quality Management project using Node.js. Worked on Intuitions project as backend developer, integrating AWS Lambda for real-time sensor data handling. Utilized Node.js, React.js, AWS Lambda, and AWS IoT Core."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Izzy - CRM Migration Tool",
+      "description": "Led development of CRM data migration tool to HubSpot, managing various node scripts for webhook integration and data management. Successfully implemented projects like Avidly now membership and Process Rule Extension.",
+      "technologies": [
+        "NodeJS",
+        "ExpressJS",
+        "TypeScript",
+        "HubSpot CRM",
+        "AWS Lambda",
+        "AWS SQS",
+        "AWS API Gateway"
+      ],
+      "link": "https://project-izzy.com"
+    },
+    {
+      "title": "Dyshez - Food Delivery Platform",
+      "description": "Developed a comprehensive food delivery platform with social media-like features, allowing users to interact with dishes, follow others, and upload images. Implemented standard food delivery functionalities.",
+      "technologies": ["NextJS", "Supabase", "Algolia"],
+      "link": "https://dyshez.com"
+    },
+    {
+      "title": "IntuIons-EV - EV Management System",
+      "description": "Developed centralized EV management portal for real-time data collection and analysis from electric vehicles. Implemented sensor data collection at one-second intervals using AWS services.",
+      "technologies": [
+        "NodeJS",
+        "ReactJS",
+        "ExpressJS",
+        "AWS Lambda",
+        "AWS IOT Core"
+      ],
+      "link": "https://intuions-ev.com"
+    }
+  ]
+}
