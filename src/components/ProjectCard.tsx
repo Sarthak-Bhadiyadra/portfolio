@@ -2,7 +2,7 @@ interface ProjectCardProps {
   title: string;
   description: string;
   technologies: string[];
-  link: string;
+  link?: string;
   index: number;
   image?: string;
 }
