@@ -1,31 +1,50 @@
-import { IconType } from 'react-icons';
-import { 
-  FaReact, FaNodeJs, FaHtml5, FaCss3, FaDocker, FaGitAlt, FaAws,
-  FaHubspot
-} from 'react-icons/fa';
-import { 
-  SiTypescript, SiTailwindcss, SiMongodb, SiExpress, SiGraphql,
-  SiPostman, SiVercel, SiNextdotjs
-} from 'react-icons/si';
+import { IconType } from "react-icons";
+import {
+  FaReact,
+  FaNodeJs,
+  FaHtml5,
+  FaCss3,
+  FaDocker,
+  FaGitAlt,
+  FaAws,
+  FaHubspot,
+  FaSalesforce,
+} from "react-icons/fa";
+import {
+  SiTypescript,
+  SiTailwindcss,
+  SiMongodb,
+  SiExpress,
+  SiGraphql,
+  SiPostman,
+  SiVercel,
+  SiNextdotjs,
+  SiJavascript,
+  SiMysql,
+  SiPostgresql,
+} from "react-icons/si";
 
 const iconMap: { [key: string]: IconType } = {
-  'ReactJS': FaReact,
-  'NodeJS': FaNodeJs,
-  'TypeScript': SiTypescript,
-  'NextJS': SiNextdotjs,
-  'HTML': FaHtml5,
-  'CSS': FaCss3,
-  'MongoDB': SiMongodb,
-  'ExpressJS': SiExpress,
-  'HubSpot': FaHubspot,
-  'Salesforce': FaHubspot,
-  'Git': FaGitAlt,
-  'AWS Lambda': FaAws,
-  'SQS': FaAws,
-  'API Gateway': FaAws,
-  'EC2': FaAws,
-  'Serverless Architecture': FaAws,
-  'Supabase': SiVercel
+  ReactJS: FaReact,
+  NodeJS: FaNodeJs,
+  TypeScript: SiTypescript,
+  JavaScript: SiJavascript,
+  NextJS: SiNextdotjs,
+  HTML: FaHtml5,
+  CSS: FaCss3,
+  ExpressJS: SiExpress,
+  HubSpot: FaHubspot,
+  Salesforce: FaSalesforce,
+  Git: FaGitAlt,
+  "AWS Lambda": FaAws,
+  SQS: FaAws,
+  "API Gateway": FaAws,
+  EC2: FaAws,
+  "Serverless Architecture": FaAws,
+  Supabase: SiVercel,
+  MySQL: SiMysql,
+  PostgreSQL: SiPostgresql,
+  MongoDB: SiMongodb,
 };
 
 interface SkillCardProps {

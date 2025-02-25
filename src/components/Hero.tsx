@@ -21,7 +21,7 @@ export default function Hero() {
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="flex-1 text-center md:text-left">
             <h1 className="text-4xl md:text-7xl font-bold mb-6 text-white">
-              Hi, I&apos;m <span className="text-blue-500">{name}</span>
+              Hi, I&apos;m <span className="text-blue-500">{name} 😎</span>
             </h1>
             <h2 className="text-2xl md:text-4xl font-semibold text-blue-400 mb-6">
               {title}

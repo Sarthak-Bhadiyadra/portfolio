@@ -2,13 +2,12 @@
   "personalInfo": {
     "name": "Sarthak Bhadiyadra",
     "title": "Software Engineer",
-    "description": "Experienced software engineer with approximately 2 years of experience and a proven track record managing 6+ projects. Skilled in front-end technologies such as HTML, CSS, and JavaScript, with expertise in backend development using Node.js and Express.js.",
+    "description": "I’m a Full Stack Developer with 3+ years in the MERN stack, creating sleek frontends with ReactJS and NextJS, and powerful backends using NodeJS and ExpressJS. With experience in CI/CD, AWS, and serverless architectures, I’m all about building fast, scalable, and efficient applications.",
     "email": "bhadiyadrasarthak2002@gmail.com",
     "location": "Ahmedabad, Gujarat",
     "socialLinks": {
-      "linkedin": "https://linkedin.com/in/yourprofile",
-      "github": "https://github.com/yourprofile",
-      "twitter": ""
+      "linkedin": "https://www.linkedin.com/in/sarthakbhadiyadra/",
+      "github": "https://github.com/Sarthak-Bhadiyadra"
     }
   },
   "skills": {
@@ -20,7 +19,7 @@
       "ReactJS",
       "NextJS"
     ],
-    "backend": ["NodeJS", "ExpressJS", "PHP", "Serverless"],
+    "backend": ["NodeJS", "ExpressJS"],
     "database": ["MySQL", "PostgreSQL", "MongoDB"],
     "crm": ["HubSpot", "Salesforce"],
     "cloud": [
@@ -34,16 +33,16 @@
   },
   "experience": [
     {
-      "title": "Jr. Software Engineer",
+      "title": "Full stack Developer",
       "company": "Esparkbiz Pvt. Ltd.",
       "duration": "July 2023 - Present",
-      "description": "Developed 'Dyshez' meal delivery app using NextJS and Supabase. Collaborated on 'Izzy' project focusing on CRM scripts and HubSpot CRM data migration. Gained expertise in HubSpot CRM, AWS Lambda, SQS, API Gateway, and Serverless Framework."
+      "description": "I joined this firm as a Full Stack Developer and have worked on more than six live projects across various technologies such as ReactJS, NextJS, NodeJS, ExpressJS, HubSpot CRM, NMI payment integration, and cloud technologies including Serverless Architecture, CodePipeline, AWS Lambda, AWS EC2, AWS CloudWatch, AWS CloudFront, AWS CloudStack, AWS S3, and more."
     },
     {
-      "title": "Jr. Software Engineer",
+      "title": "Full stack Developer",
       "company": "Intuz Solutions Pvt. Ltd.",
       "duration": "July 2022 - June 2023",
-      "description": "Developed backend APIs for Water Quality Management project using Node.js. Worked on Intuitions project as backend developer, integrating AWS Lambda for real-time sensor data handling. Utilized Node.js, React.js, AWS Lambda, and AWS IoT Core."
+      "description": "I joined this firm as a Full Stack Developer, where I developed backend APIs for the Water Quality Management project using Node.js. I also contributed to the Intuitions project as a backend developer, integrating AWS Lambda for real-time sensor data handling. My work involved using Node.js, React.js, AWS Lambda, and AWS IoT Core."
     }
   ],
   "projects": [
@@ -58,8 +57,7 @@
         "AWS Lambda",
         "AWS SQS",
         "AWS API Gateway"
-      ],
-      "link": "https://project-izzy.com"
+      ]
     },
     {
       "title": "Dyshez - Food Delivery Platform",

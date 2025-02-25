@@ -1,16 +1,16 @@
-import Link from 'next/link';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
-import data from '@/data/data.json';
+import Link from "next/link";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+import data from "@/data/data.json";
 
 export default function Header() {
   const { socialLinks } = data.personalInfo;
-  
+
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm shadow-lg">
       <nav className="container mx-auto px-6 py-4 animate-fadeIn">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-xl font-bold dark:text-white">
-            Portfolio
+            Sarthak Bhadiyadra
           </Link>
           <div className="flex items-center space-x-6">
             <a

@@ -1,4 +1,4 @@
-import data from '@/data/data.json';
+import data from "@/data/data.json";
 
 export default function Footer() {
   const { socialLinks } = data.personalInfo;
@@ -29,14 +29,14 @@ export default function Footer() {
             >
               LinkedIn
             </a>
-            <a
+            {/* <a
               href={socialLinks.twitter}
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-colors"
             >
               Twitter
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
